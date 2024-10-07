@@ -8,9 +8,9 @@ In this exercise, it is up to you to decide how you want to implement this. We w
 
 To submit your work, you can provide us with a link to your code and a document or readme that includes your written summary. 
 
-Evaluation Criteria
+**Evaluation Criteria**
 - Code Readability and Maintainability
-- The code runs
+- Functioning Code (does it run?)
 - Handling the cases in the problem statement
 - Tech decisions and implementation approach based on the problem statement
 
