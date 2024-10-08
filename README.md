@@ -1,4 +1,4 @@
-# Interview with Frontend Focus - Embedded Experience
+# Embedded Experience
 
 ## Problem Statement
 
