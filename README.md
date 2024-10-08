@@ -14,4 +14,5 @@ To submit your work, you can provide us with a link to your code and a document 
 - Handling the cases in the problem statement
 - Tech decisions and implementation approach based on the problem statement
 
-We look forward to reviewing your approach. If you have clarifying questions, please reach out to us.
+We look forward to reviewing your approach. You are welcome to use boilerplate code to get started. If you have clarifying questions, please reach out to us.
+
